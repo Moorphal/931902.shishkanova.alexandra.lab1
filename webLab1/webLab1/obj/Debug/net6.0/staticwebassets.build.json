@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "OrN5dqL7q3OP8BMgp3hjc5Q2xOoKtyMS9WEfqpvu8KE=",
+  "Source": "webLab1",
+  "BasePath": "_content/webLab1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "webLab1\\wwwroot",
+      "Source": "webLab1",
+      "ContentRoot": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\wwwroot\\",
+      "BasePath": "_content/webLab1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webLab1.styles.css",
+      "SourceId": "webLab1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/webLab1",
+      "RelativePath": "webLab1.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webLab1.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webLab1.bundle.scp.css",
+      "SourceId": "webLab1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/webLab1",
+      "RelativePath": "webLab1.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webLab1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\wwwroot\\css\\site.css",
+      "SourceId": "webLab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\wwwroot\\",
+      "BasePath": "_content/webLab1",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\wwwroot\\favicon.ico",
+      "SourceId": "webLab1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imawa\\source\\repos\\webLab1\\webLab1\\wwwroot\\",
+      "BasePath": "_content/webLab1",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
